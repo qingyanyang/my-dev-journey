@@ -1,0 +1,26 @@
+{
+  "hero": {
+    "hello": "Hello，",
+    "intro": "欢迎来到我的空间",
+    "title": "我是一名前端开发",
+    "basedIn": "目前在",
+    "location": "杭州",
+    "cta": "访问 Blog"
+  },
+  "status": {
+    "title": "状态",
+    "availability": "目前正在",
+    "availabilityDetail": "努力寻找新工作中...",
+    "sayHi": "联系我",
+    "linkedin": "微信",
+    "github": "GitHub",
+    "email": "邮箱"
+  },
+  "footer": {
+    "heading": "一起探索技术吧~",
+    "description": "我正在积极寻找全职工作机会...",
+    "subline": "如果你感兴趣的话, 不要客气, 来联系我哇！",
+    "copyright": "© 2025 Qian 同学 · 前端开发",
+    "note": "用热情和很多咖啡制作 ☕"
+  }
+}

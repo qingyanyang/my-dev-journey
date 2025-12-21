@@ -1,0 +1,26 @@
+{
+  "hero": {
+    "hello": "Hello,",
+    "intro": "my name is",
+    "title": "I'm a Junior Full-Stack Developer",
+    "basedIn": "based in",
+    "location": "Hangzhou",
+    "cta": "Visit Blog"
+  },
+  "status": {
+    "title": "Status",
+    "availability": "Currently available for",
+    "availabilityDetail": "any type of collaboration",
+    "sayHi": "Say hi",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "email": "Email"
+  },
+  "footer": {
+    "heading": "Let's work together",
+    "description": "I'm actively seeking long-term opportunities and collaborations.",
+    "subline": "Let's create something amazing together!",
+    "copyright": "© 2025 Chelsea Yang. Full-Stack Developer.",
+    "note": "Made with passion and lots of coffee ☕"
+  }
+}
