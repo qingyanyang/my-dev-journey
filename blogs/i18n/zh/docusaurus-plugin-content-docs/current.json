@@ -1,0 +1,26 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.learnSidebar.category.Front-end": {
+    "message": "Front-end",
+    "description": "The label for category 'Front-end' in sidebar 'learnSidebar'"
+  },
+  "sidebar.learnSidebar.category.Front-end.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category 'Front-end' in sidebar 'learnSidebar'"
+  },
+  "sidebar.learnSidebar.category.CSS": {
+    "message": "CSS",
+    "description": "The label for category 'CSS' in sidebar 'learnSidebar'"
+  },
+  "sidebar.learnSidebar.category.HTML": {
+    "message": "HTML",
+    "description": "The label for category 'HTML' in sidebar 'learnSidebar'"
+  },
+  "sidebar.learnSidebar.category.JavaScript": {
+    "message": "JavaScript",
+    "description": "The label for category 'JavaScript' in sidebar 'learnSidebar'"
+  }
+}
