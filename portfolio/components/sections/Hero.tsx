@@ -4,9 +4,12 @@ import { linkedin } from "@/app/[lang]/page";
 import { getDictionary } from "@/lib/getDictionary";
 import clsx from "clsx";
 
+const journeyLink =
+  process.env.NEXT_PUBLIC_JOURNEY ?? "https://journey.chelseayang.work";
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const Hero = async ({ lang }: any) => {
   const isZh = lang === "zh";
+  const localedJourneyLink = isZh ? journeyLink + "/zh" : journeyLink;
   const dic = await getDictionary(lang);
   const heroDic = dic.hero;
   return (
@@ -63,9 +66,8 @@ const Hero = async ({ lang }: any) => {
             </span>
 
             <a
-              target="_blank"
               rel="noopener noreferrer"
-              href={linkedin}
+              href={localedJourneyLink}
               className="relative z-10 flex items-center gap-2 text-2xl"
             >
               {heroDic.cta}
