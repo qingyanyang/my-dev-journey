@@ -26,5 +26,37 @@
   "sidebar.learnSidebar.category.React": {
     "message": "React",
     "description": "The label for category 'React' in sidebar 'learnSidebar'"
+  },
+  "sidebar.learnSidebar.category.LeetCode": {
+    "message": "LeetCode",
+    "description": "The label for category 'LeetCode' in sidebar 'learnSidebar'"
+  },
+  "sidebar.learnSidebar.category.LeetCode.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category 'LeetCode' in sidebar 'learnSidebar'"
+  },
+  "sidebar.learnSidebar.category.Array": {
+    "message": "Array",
+    "description": "The label for category 'Array' in sidebar 'learnSidebar'"
+  },
+  "sidebar.learnSidebar.category.Linked List": {
+    "message": "Linked List",
+    "description": "The label for category 'Linked List' in sidebar 'learnSidebar'"
+  },
+  "sidebar.learnSidebar.category.Harsh Table": {
+    "message": "Harsh Table",
+    "description": "The label for category 'Harsh Table' in sidebar 'learnSidebar'"
+  },
+  "sidebar.learnSidebar.category.String": {
+    "message": "String",
+    "description": "The label for category 'String' in sidebar 'learnSidebar'"
+  },
+  "sidebar.learnSidebar.category.Stack & Queue": {
+    "message": "Stack & Queue",
+    "description": "The label for category 'Stack & Queue' in sidebar 'learnSidebar'"
+  },
+  "sidebar.learnSidebar.category.Binary Tree": {
+    "message": "Binary Tree",
+    "description": "The label for category 'Binary Tree' in sidebar 'learnSidebar'"
   }
 }

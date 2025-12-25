@@ -10,8 +10,10 @@
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
-    "write-translations": "docusaurus write-translations",
+    "write-translations": "docusaurus write-translations -- --locale zh",
     "write-heading-ids": "docusaurus write-heading-ids",
+    "copy-bogs": "cp -r blog/** i18n/zh/docusaurus-plugin-content-blog",
+    "copy-docs": "cp -r docs/** i18n/zh/docusaurus-plugin-content-docs/current",
     "typecheck": "tsc"
   },
   "dependencies": {
